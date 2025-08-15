@@ -1,1 +1,3 @@
-This file is created for emerging a conflict explicitly.
+# References
+
+* octocat 1 😈
